@@ -1,3 +1,6 @@
 # Imperitura - memoria
+
 ## Proof of Arrogance and Incompetence
-[PDL 4692](http://documenti.camera.it/apps/CommonServices/getDocumento.ashx?sezione=documenti&tipoDoc=lavori_testo_pdl_html&codice=17PDL0055510&idLegislatura=17)
+
+* [PDL 4692](http://documenti.camera.it/apps/CommonServices/getDocumento.ashx?sezione=documenti&tipoDoc=lavori_testo_pdl_html&codice=17PDL0055510&idLegislatura=17)
+* [OpentimeStamps (PDL 4692)](https://opentimestamps.org/info.html?ots=004f70656e54696d657374616d7073000050726f6f6600bf89e2e884e892940108bc542ee44f836bcf87aef7b5998e9e5ef173813fa300102e745709c0458f63c3f0109d67cf39afde25e81426f84069018a0108fff01092c7b9bbb6045f4670e15475e34da8d608f1045a2fe613f0089dcfea00679128b00083dfe30d2ef90c8e2e2d68747470733a2f2f616c6963652e6274632e63616c656e6461722e6f70656e74696d657374616d70732e6f7267f0106e2cb62006e0ddb7d2407137e7565b5d08f1045a2fe613f008d539f243baea22ff0083dfe30d2ef90c8e2c2b68747470733a2f2f626f622e6274632e63616c656e6461722e6f70656e74696d657374616d70732e6f7267)
